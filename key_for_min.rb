@@ -5,5 +5,3 @@ def key_for_min_value(name_hash)
   birthday_kids.collect do |name, age|
     age * 7
 end
-
-end
